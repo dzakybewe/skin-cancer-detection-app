@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_historyPage"
+        android:icon="@drawable/ic_time"
+        android:title="History"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_newsPage"
+        android:icon="@drawable/ic_news"
+        android:title="News"
+        app:showAsAction="ifRoom"/>
+
+</menu>
